@@ -1,2 +1,1 @@
-// Configuración del juego
-public static float velocidad = 8f;
+public static float velocidad = 6f;
