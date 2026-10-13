@@ -1,2 +1,2 @@
 // Configuración del juego
-public static float velocidad = 5f;
+public static float velocidad = 3f;
